@@ -1,3 +1,6 @@
+![EQuran.id](https://raw.githubusercontent.com/equran/equran-api/main/equran_id.png "Quran Digital Bahasa Indonesia")
+___
+
 ## API Developer
 ___
 
@@ -114,3 +117,6 @@ Contoh Response:
      }
   ]
 ```
+___
+
+[![EQuran.id](https://raw.githubusercontent.com/equran/equran-api/main/google_play_200.png "Quran Digital Bahasa Indonesia")](https://play.google.com/store/apps/details?id=id.equran.android)
