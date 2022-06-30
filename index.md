@@ -1,4 +1,4 @@
-![EQuran.id](https://raw.githubusercontent.com/equran/equran-api/gh-pages/single_page_v2.jpg "Quran Digital Bahasa Indonesia")
+![EQuran.id](https://raw.githubusercontent.com/equran/equran-api/gh-pages/single_page_v2.jpg "Al Quran Digital Bahasa Indonesia")
 ___
 
 ## API Developer
